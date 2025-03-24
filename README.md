@@ -1,6 +1,6 @@
 **Project Overview**
 
-  This project is a small API testing framework for GoRest API using postman tool. It utilizes GitLab CI/CD pipeline to run postman test collection through YAML configuration.
+  This Postman collection is designed to test the API endpoints of GoRest API. The collection includes tests for user authentication, creation and deletion of user, posts and comments for the user and toDo list.
 
 **Project Structure**
 
